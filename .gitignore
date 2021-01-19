@@ -1,3 +1,9 @@
+# 데이터 또는 모델 파일
+*.tsv
+*.xml
+*.csv
+*.model
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
