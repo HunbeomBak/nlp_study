@@ -3,6 +3,7 @@
 *.xml
 *.csv
 *.model
+*.pt
 
 # torchtext
 .vector_cache
